@@ -1,6 +1,6 @@
 # Detecting Fake News with NLP using ML
 
-Predicting whether a News Article is Real or Fake with 99% Accuracy using only the Title and Text, while exploring different NLP Processing techniques and ML Models. 
+Predicting whether a News Article is Real or Fake with 99.6% Accuracy using only the Title and Text, while exploring different NLP Processing techniques and ML Models. 
 
 >Dataset: [Fake + Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
